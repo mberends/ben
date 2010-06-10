@@ -1,0 +1,15 @@
+=begin pod
+
+=head1 NAME
+Ben - a bookkeeping and accounting system written in Perl 6
+
+This project is named after a real-life Ben, an accountant who saw the
+potential benefits of a small computer for a small accounting business
+long before such an idea was normal, and before the IBM PC existed.
+
+Ben lacked all understanding of the workings of the machines, and had no
+comparable installations to refer to.  Nevertheless Ben committed lots
+of time and money through thick and thin to the development of several
+very effective computer based accounting systems.  Although those early
+systems no longer exist, many ideas flowed from them into this project.
+
